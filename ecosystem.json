@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name": "set2score",
+    "script": "./bin/www.js",
+    "watch": true,
+    "ignore_watch": ["node_modules"]
+  }]
+}
